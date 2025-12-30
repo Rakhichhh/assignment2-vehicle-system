@@ -1,5 +1,5 @@
 # Assignment 2 — Vehicle Management System
-#MYRZABEKOV RAKHAT
+MYRZABEKOV RAKHAT
 ## Project Overview
 This project is a Vehicle Management System implemented in Java.
 It demonstrates key object-oriented programming principles such as
