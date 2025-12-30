@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        Driver d1 = new Driver("Alex", "KZ12345");
-        Driver d2 = new Driver("Dana", "KZ98765");
+        Driver d1 = new Driver("Нұрлан", "KZ12345");
+        Driver d2 = new Driver("Айдана", "KZ98765");
 
         Car car = new Car("Toyota", 2020, 4, "Gasoline");
         Motorcycle moto = new Motorcycle("Yamaha", 2018, false);
