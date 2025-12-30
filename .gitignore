@@ -1,6 +1,7 @@
 .idea/
 *.iml
-out/# Default ignored files
+out/
+# Default ignored files
 /shelf/
 /.idea/workspace.xml
 # Ignored default folder with query files
